@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>       
-         <Text style={{fontSize: 38}}>BIOGRAPHY</Text>
+         <Text style={{fontSize: 38}}>BIOGRAPHY </Text>
     
     <View style={{flexDirection: 'row'}}>
       <Text style={{fontSize: 24,paddingTop: 5}}>First Name:</Text>
